@@ -1,3 +1,9 @@
+# 关于新版MacOS移除pppd的情况
+可以参考：
+> https://github.com/nthack/pptp-for-Mac-High-Sierra/issues/1
+毕竟VPN通道不能换协议的话，还是要用第三方了。
+
+
 # 本人Mac系统版本
 > Mac OS版本：10.14.4 Mojave
 
