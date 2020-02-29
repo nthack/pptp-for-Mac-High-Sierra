@@ -1,6 +1,7 @@
 # 关于新版MacOS移除pppd的情况
 可以参考：
 > https://github.com/nthack/pptp-for-Mac-High-Sierra/issues/1
+
 毕竟VPN通道不能换协议的话，还是要用第三方了。
 
 
@@ -140,6 +141,7 @@ vpn-off
 ***
 
 此文同时在简书发布：[https://www.jianshu.com/p/c69f38f95217](https://www.jianshu.com/p/c69f38f95217)
+
 此文同时在CSDN发布：[https://blog.csdn.net/nthack5730/article/details/89774908](https://blog.csdn.net/nthack5730/article/details/89774908)
 转载要加原文链接！谢谢支持！
 
